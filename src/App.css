@@ -1,0 +1,23 @@
+@font-face{
+  font-family:bariol-bold-webfont;
+  src:url(./assets/fontes/bariol-bold-webfont.dc67f52f.ttf);
+}
+
+*{
+  box-sizing:border-box;
+}
+
+html{
+  height: 100%;
+}
+
+#root{
+  height: 100%;
+}
+
+body{
+  margin:0;
+  font-family:'bariol-bold-webfont';
+  background-color:#1F2127;
+  height: 100%;
+}
